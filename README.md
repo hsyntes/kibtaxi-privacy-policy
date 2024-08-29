@@ -1,40 +1,33 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Privacy Policy of Kibtaxi
 
-## Getting Started
+Introduction
+At Kibtaxi, we respect the privacy of our users and take the necessary measures to protect your personal data. This privacy policy explains how our app collects, uses and protects user data. By using our app, you agree to this policy.
 
-First, run the development server:
+Information Collected and Purposes of Use
+Location Information: Our app collects the device's location data to list taxi businesses around the user by getting the user's current location. This location information is only used to show the taxi businesses closest to the user and is not stored for any other purpose or shared with third parties.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Google Places API Data: Our app receives and displays information about taxi businesses, such as reviews, star ratings, and photos, via the Google Places API. This information is provided by Google and is used by our app for informational purposes only.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Contact Information: There are buttons that allow users to make a WhatsApp or phone call to directly contact taxi companies. These functions direct the user directly to the WhatsApp application or the phone call feature of the device. Our application does not collect user data during these communication processes.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Sharing of Information
+Third Party Services: Our app collects data using third party services like the Google Places API. These services have their own privacy policies. For more information about Google's data collection and processing practices, please visit the Google Privacy Policy page.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Data Sharing: Our application does not share, sell or rent users' personal data with third parties. Location information is used only to show taxi businesses close to the user.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Data Security
+Our app does not directly collect or store user data. All data displayed to users is provided via the Google Places API. Therefore, data security is largely dependent on Google's data processing and security policies:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Google Places API: Our app uses the Google Places API to provide information about taxi businesses. This API provides reviews, star ratings, photos, and contact information for taxi businesses. Google uses strong security measures and encryption techniques to protect user data. For more information about Google's data security and privacy, please visit the Google Privacy Policy page.
 
-## Learn More
+Location Data: Our app only uses the current location of users to show taxi businesses around them. Location information is not stored or shared with third parties in any way.
 
-To learn more about Next.js, take a look at the following resources:
+Güvenli Sunucular: Uygulamanın backend sunucusu, güvenilir ve güvenli bir platform olan AWS üzerinde barındırılmaktadır. AWS, veri güvenliğini sağlamak için ileri düzey güvenlik önlemleri ve altyapı çözümleri sunar.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Our application strives to comply with the data security and privacy standards provided by Google. In case of any security issue regarding users' data, we will immediately investigate the situation, take the necessary measures and inform our users.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+User Rights and Options
+Location Sharing: Users can disable location sharing from the app settings or their device settings. However, some features of our app may not work properly in this case.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Contact
+If you have any questions or concerns about this privacy policy, please contact us: contact@hsyntes.com
