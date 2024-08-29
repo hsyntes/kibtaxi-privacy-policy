@@ -1,5 +1,6 @@
 {
-  "name": "privacy-policy",
+  "name": "kibtaxi-privacy-policy",
+  "description": "The privacy policy of kibtaxi application",
   "version": "0.1.0",
   "private": true,
   "scripts": {
